@@ -1,4 +1,4 @@
-![QuantumOracles-Lab cover](assets/cover.png)
+![QuantumOracles-Lab cover](QuantumOracles-Lab%20cover.png)
 
 # QuantumOracles-Lab 🔮⚛️
 
